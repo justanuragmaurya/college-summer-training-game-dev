@@ -1,0 +1,98 @@
+.DS_Store
+Thumbs.db
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity build system caches (various)
+[Aa]rtifactDB/
+[Bb]ee/
+[Bb]urstCache/
+[Ss]criptAssemblies/
+[Ss]tateCache/
+[Ss]haderCache/
+[Pp]ackage[Cc]ache/
+[Ss]earch/
+
+# Unity asset store tools
+[Aa]ssets/AssetStoreTools*
+
+# JetBrains Rider plugin for Unity
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+# VSCode settings (optional to commit; ignore by default)
+.vscode/
+
+# JetBrains/IDEA
+.idea/
+*.sln.iml
+
+# Visual Studio / MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.db
+
+# Crash/diagnostic files
+sysinfo.txt
+
+# Package manager lock file (Unity regenerates; usually not needed in VCS)
+/[Pp]ackages/packages-lock.json
+
+# TextMesh Pro auto-saved font assets (can be regenerated)
+[Aa]ssets/TextMesh Pro/**/Resources/*_Fallback.asset
+
+# Platform-specific: Android
+.gradle/
+gradle/
+gradleOut/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Platform-specific: iOS/Xcode
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace/
+*.xcodeproj/
+*.xcuserstate
+xcuserdata/
+DerivedData/
+
+# Unity packages and archives
+*.unitypackage
+
+# Local caches and temp at repo root
+Temp/
+Logs/
+UserSettings/
+
+# macOS
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+
+
